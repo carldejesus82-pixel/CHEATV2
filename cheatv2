@@ -128,7 +128,7 @@ loadstring(game:HttpGet("https://pastebin.com/raw/GY1wfJRZ"))()
    end,
 })
  
-local SPAWNGUNTab = Window:CreateTab("🔫SPAWN GUN 1KMI$TRA🔫", 4483362458) -- Title, Image
+local SPAWNGUNTab = Window:CreateTab("🔫3KS DUPE GUNS🔫", 4483362458) -- Title, Image
 local SPAWNGUNSection = SPAWNGUNTab:CreateSection("SPAWN GUN")
  
 -- Rayfield button
